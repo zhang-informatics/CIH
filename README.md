@@ -23,4 +23,4 @@ The CIH file contains the following keys:
 "num_UT": 5}
 
 ## Using the dataset
-Use of this dataset is subject of the terms of the [LICENSE](main/LICENSE.md).
+Use of this dataset is subject of the terms of the [LICENSE](CIH/LICENSE.md).
