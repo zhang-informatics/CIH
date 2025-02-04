@@ -70,8 +70,8 @@ def coverage_summary(matches):
     prop_norm_match = count_norm_matches / num_terms
     matched_cuis = {cui for match in all_matched for cui in match["umls_cuis"]}
 
-    outstr += f"\nNumber of unique terms: {num_terms}\n"
-    outstr += f"\nNumber of norm unique terms: {norm_num_terms}\n"
+    outstr += f"\nNumber of unique concept terms: {num_terms}\n"
+    outstr += f"  Number of norm unique concept terms: {norm_num_terms}\n"
     outstr += f"  Unique terms matched: {count_all_matches} ({prop_all_match:.4f})\n"  # noqa
     outstr += f"  Exact matches: {count_exact_matches} ({prop_exact_match:.4f})\n"
     outstr += f"  Normalized matches: {count_norm_matches} ({prop_norm_match:.4f})\n"  # noqa
