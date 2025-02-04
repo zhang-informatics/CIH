@@ -4,6 +4,7 @@ Number of Atoms: 894
   Normalized matches: 37 (0.0414)
 
 Number of unique terms: 724
+  Number of norm unique terms: 716
   Unique terms matched: 197 (0.2721)
   Exact matches: 194 (0.2680)
   Normalized matches: 3 (0.0041)
