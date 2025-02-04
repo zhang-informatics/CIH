@@ -1,0 +1,21 @@
+Number of Atoms: 894
+  Total matches: 273 (0.3054)
+  Exact matches: 236 (0.2640)
+  Normalized matches: 37 (0.0414)
+
+Number of unique terms: 724
+  Unique terms matched: 197 (0.2721)
+  Exact matches: 194 (0.2680)
+  Normalized matches: 3 (0.0041)
+  Number of UMLS CUIs: 194
+
+Norm  Number of unique terms : 885
+  Unique terms matched norm: 267 (0.3017)
+  Exact matches norm: 230 (0.2599)
+  Normalized matches norm: 37 (0.0418)
+
+terms lower  Number of unique terms by keys: 885
+  Exact matches: 230 (0.3017)
+  Normalized matches: 37 (0.2599)
+  Normalized matches norm: 37 (0.0418)
+  Number of UMLS CUIs norm: 194
