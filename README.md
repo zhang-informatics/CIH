@@ -3,6 +3,7 @@ The CIHLex is a colletion of psychological and physical complementary and integr
 1. CIH terms extracted from literature review(LRCIH)
 2. Natural Medicine CIH terms (NMCIH)
 
+# Please check the codes folder for the updated files and summary
 
 ## File structure
 The update CIH file contains the following columns:
